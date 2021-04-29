@@ -122,7 +122,7 @@ class TestDepartmentReport(unittest.TestCase):
         self.assertTrue(all_relevant_employees_present(
             self.bad_department_report, self.bad_full_report, "Department ID", self.department_id))
 
-    def test_employee_id_validation_department(self):
+    def test_employee_id_validation(self):
 
         self.assertTrue(test_validation(self.good_department_report,
                                         is_number_valid, "Employee ID", 10, True))
@@ -130,7 +130,7 @@ class TestDepartmentReport(unittest.TestCase):
         self.assertTrue(test_validation(self.bad_department_report,
                                         is_number_valid, "Employee ID", 10, True))
 
-    def test_employee_name_validation_department(self):
+    def test_employee_name_validation(self):
 
         self.assertTrue(test_validation(self.good_department_report,
                                         is_character_valid, "Employee Name", 50, True))
@@ -138,7 +138,7 @@ class TestDepartmentReport(unittest.TestCase):
         self.assertTrue(test_validation(self.bad_department_report,
                                         is_character_valid, "Employee Name", 50, True))
 
-    def test_job_title_validation_department(self):
+    def test_job_title_validation(self):
 
         self.assertTrue(test_validation(self.good_department_report,
                                         is_character_valid, "Job Title", 50, True))
@@ -146,7 +146,7 @@ class TestDepartmentReport(unittest.TestCase):
         self.assertTrue(test_validation(self.bad_department_report,
                                         is_character_valid, "Job Title", 50, True))
 
-    def test_salary_validation_department(self):
+    def test_salary_validation(self):
 
         self.assertTrue(test_validation(self.good_department_report,
                                         is_number_valid, "Salary", 10, True))
