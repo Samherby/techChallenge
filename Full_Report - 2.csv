@@ -1,0 +1,31 @@
+Employee ID,Employee Name,Job Title,Manager ID,Salary,Department ID,Department Name,Location
+1,Craig Goforth,Engineer,90002,14906,2,Engineering,Cardiff
+2,Monica Smith,Manager,90003,22546,1,Management,London
+3,Maria Dunham,Manager,90002,15893,4,Sales,Belfast
+4,Leslie Dube,Secretary,90001,19832,2,Engineering,Cardiff
+5,Paul Little,Salesperson,90006,15906,1,Management,London
+6,Reva Laino,Manager,90006,10906,2,Engineering,Cardiff
+7,Kari Smith,Engineer,90006,18016,2,Engineering,Cardiff
+8,Matthew Richardson,Salesperson,90004,24187,3,Research & Development,Edinburgh
+9,Raymond Boucher,Secretary,90006,23839,3,Research & Development,Edinburgh
+10,Donald Bennett,Engineer,90006,13676,1,Management,London
+11,William Hatcher,Engineer,90005,11112,4,Sales,Belfast
+12,Tiana Verble,Manager,90004,16004,1,Management,London
+13,Douglas Doran,Secretary,90004,14515,3,Research & Development,Edinburgh
+14,Peter Hughes,Salesperson,90001,17790,4,Sales,Belfast
+15,Harold Davis,Engineer,90002,15682,3,Research & Development,Edinburgh
+16,Harold Alexander,Salesperson,90002,13612,1,Management,London
+17,Hazel Broker,Engineer,90005,24392,1,Management,London
+18,Aaron Nichols,Secretary,90006,13498,2,Engineering,Cardiff
+19,Michael Bartee,Engineer,90004,13949,4,Sales,Belfast
+20,Sheri Fosmire,Salesperson,90003,12840,4,Sales,Belfast
+21,John Dye,Salesperson,90003,23267,4,Sales,Belfast
+22,James Layman,Secretary,90006,23374,4,Sales,Belfast
+23,Mary Banister,Salesperson,90006,14652,2,Engineering,Cardiff
+24,Rolanda Knowles,Salesperson,90005,24508,2,Engineering,Cardiff
+25,Johnny Haag,Salesperson,90006,16289,2,Engineering,Cardiff
+26,Rita Vig,Manager,90005,11981,4,Sales,Belfast
+27,Cynthia Sellers,Secretary,90003,19530,2,Engineering,Cardiff
+28,Lonnie Fenster,Secretary,90002,11206,2,Engineering,Cardiff
+29,Gary Jones,Engineer,90006,21281,3,Research & Development,Edinburgh
+30,Janice Fraley,Secretary,90005,24039,3,Research & Development,Edinburgh
