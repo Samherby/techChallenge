@@ -9,22 +9,6 @@ job_title_list = ["Manager", "Salesperson", "Engineer", "Secretary"]
 manager_id_list = [90001, 90002, 90003, 90004, 90005, 90006]
 
 
-# def create_emp_data_set(rows):
-#     data_list = []
-
-#     for x in range(rows):
-#         employee_name = names.get_full_name()
-#         job_title = job_title_list[random.randint(0, 3)]
-#         manager_id = manager_id_list[random.randint(0, 5)]
-#         date_hired = randomtimestamp(text=False).strftime("%d/%m/%Y")
-#         salary = random.randint(10000, 25000)
-#         department_id = random.randint(1, 4)
-#         data_list.append({'Employee ID': x+1,
-#                           'Employee Name': employee_name, 'Job Title': job_title, 'Manager ID': manager_id, 'Date Hired': date_hired, 'Salary': salary, 'Department ID': department_id})
-
-#     return data_list
-
-
 departments = [
     {'Department ID': 1, 'Department Name': "Management", 'Location': "London"},
     {'Department ID': 2, 'Department Name': "Engineering",

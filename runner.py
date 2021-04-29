@@ -17,9 +17,9 @@ is_good_data = int(input("press 1 for good data, 2 for bad data\n"))
 test_sets = int(input("How many test sets would you like to create?:\n"))
 rows = int(input("How many employees would you like in each test set?:\n"))
 department_id = int(
-    input("What department ID would you like to generate this report for?:\n"))
+    input("What department ID would you like to generate this report for? (1-4):\n"))
 location = input(
-    "What location would you like to generate this report for?:\n")
+    "What location would you like to generate this report for? (London, Cardiff, Edinburgh or Belfast):\n")
 
 
 for i in range(test_sets):
